@@ -1,3 +1,3 @@
-Je publierai de temps à autre du code en langage JavaScript pour des fonctionnalités plus ou moins utiles pour des utilisateurs de Discord dans leur conception de Bot Discord.
-De préférence je tiens à être un minimum créditer dans le code sous les pseudos suivants qui sont tous deux obligatoires : Saulcy & GuadoDex.
-Merci de la compréhension que vous pouvez faire part.
+Je publierai de temps à autre séparémment du code de fonctions plus ou moins utiles dans la vie de tous les jours sur Discord.
+Je publie uniquement quand je le souhaite, ou quand j'en ai l'envie.
+Si de votre part, en échange du temps passé au développement du bot, pouviez laisser la créditation envers moi-même et GuadoDex. Merci 😉
