@@ -1,6 +1,6 @@
 ## Les liens discordapp peuvent être modifiés pour vous permettre de mettre vos propre gifs à la place
 ## Il ne faut pas oublier de regarder dans le fichier "config.json" pour pouvoir paramétrer le salon où vont apparaître les messages ainsi que le rôle
-## Ces lignes sont à mettre dans le fichier "index.js" de votre Bot (donc à la raçine)
+## Ces lignes sont à mettre dans le fichier "index.js" de votre Bot (donc à la raçine) tout en bas de votre code de préférence
 
 client.on('guildMemberAdd', member =>{
     member.guild.channels.cache.get(config.greeting.channel).send(new Discord.MessageEmbed()
